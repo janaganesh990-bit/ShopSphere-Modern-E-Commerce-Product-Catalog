@@ -1,2 +1,36 @@
-# ShopSphere-Modern-E-Commerce-Product-Catalog
-ShopSphere is a responsive Single Page Application (SPA) built with HTML, CSS, and JavaScript. It features live product data from the Fake Store API, client-side routing, search, filtering, sorting, and a persistent shopping cart using Local Storage.
+# 🛍️ ShopSphere
+
+A modern and responsive e-commerce product catalog built with HTML, CSS, and JavaScript.
+
+## ✨ Features
+
+- Product Catalog
+- Product Details
+- Live Search
+- Category Filter
+- Price Sorting
+- Shopping Cart
+- Local Storage
+- SPA Routing
+- REST API Integration
+- Responsive Design
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Fetch API
+- Local Storage
+
+## 🚀 Live Demo
+
+https://your-vercel-link.vercel.app
+
+## 📦 API
+
+Fake Store API – https://fakestoreapi.com/
+
+## 👨‍💻 Author
+
+**Janaganesh S**
