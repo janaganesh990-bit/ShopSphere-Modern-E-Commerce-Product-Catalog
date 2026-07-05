@@ -23,10 +23,6 @@ A modern and responsive e-commerce product catalog built with HTML, CSS, and Jav
 - Fetch API
 - Local Storage
 
-## 🚀 Live Demo
-
-https://your-vercel-link.vercel.app
-
 ## 📦 API
 
 Fake Store API – https://fakestoreapi.com/
